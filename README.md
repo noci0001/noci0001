@@ -2,6 +2,7 @@
 ### Hi there 👋, my name is *Sam*
 I am Sam from Berlin, I code for a living and I live to code. I really enjoy low level languages like C and I mostly code in CPP. You can checkout my LinkdedIn profile at linkedin.com/in/samuelnocita
 
+### About Me:
 - 🔭 I’m currently working on creating a **web server** 
 - 🌱 I’m currently learning the wonders of **C++** and Object Oriented Programming 
 - 👯 I’m looking to collaborate on **frontend** projects involving React 
@@ -9,6 +10,10 @@ I am Sam from Berlin, I code for a living and I live to code. I really enjoy low
 - 💬 Ask me about how shell works! It's an amazingly complex language that we use daily but we do not appreciate enough! 
 - 📫 How to reach me: linkedin.com/in/samuelnocita 
 - ⚡ Fun fact: Computer languages are not the only languages I find fascinating, human languages were my first passion and I speak a few like Italian, Spanish, French and soon I hope to master German
+
+### 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=for-the-badge&logo=npm&logoColor=white) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![Yarn](https://img.shields.io/badge/yarn-%232C8EBB.svg?style=for-the-badge&logo=yarn&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Gimp Gnu Image Manipulation Program](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+
 
 ## SKILLS
 
@@ -32,6 +37,6 @@ Designed and led the implementation of online marketplace of small jobs using HT
 **Lab5 - Software Engineer Intern (Business Development focus) - VENICE, Italy**
 Improved UX design of Customer Journey, tested quality of code and intense debug and reformatting of code base.
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/noci0001)  
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=https://github.com/noci0001)  
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=noci0001)](https://github.com/anuraghazra/github-readme-stats)
