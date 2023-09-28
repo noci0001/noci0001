@@ -19,6 +19,10 @@ I am Sam from Berlin, I code for a living and I live to code. I really enjoy low
 - 📫 How to reach me: linkedin.com/in/samuelnocita 
 - ⚡ Fun fact: Computer languages are not the only languages I find fascinating, human languages were my first passion and I speak a few like Italian, Spanish, French and soon I hope to master German 
 
+<video autoplay loop muted>
+  <source src="[your-video.mp4](https://github.com/noci0001/noci0001/assets/79120220/85fd2cd2-0246-4ee1-b0be-97537f2613b6)" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/https://github.com/noci0001)  
 
