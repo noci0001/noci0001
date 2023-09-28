@@ -8,7 +8,7 @@ I am Sam from Berlin, I code for a living and I live to code. I really enjoy low
 - 👯 I’m looking to collaborate on **frontend** projects involving React 
 - 🤔 I’m looking for help with finding an **internship in tech** that challenges me and makes me create an impact 
 - 💬 Ask me about how shell works! It's an amazingly complex language that we use daily but we do not appreciate enough! 
-- 📫 How to reach me: linkedin.com/in/samuelnocita 
+- 📫 How to reach me: [My LinkedIn](https://linkedin.com/in/samuelnocita)
 - ⚡ Fun fact: Computer languages are not the only languages I find fascinating, human languages were my first passion and I speak a few like Italian, Spanish, French and soon I hope to master German
 
 ### 💻 Tech Stack:
