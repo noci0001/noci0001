@@ -30,7 +30,7 @@ ___
 |[Born2beroot](https://github.com/noci0001)|-(1)-|Virtual machine|110/100|/|
 |[Get_next_line](https://github.com/noci0001)|-(1)-|Reading from a file descriptor|125/100|C|
 |[Ft_printf](https://github.com/noci0001)|-(1)-|Recreation of printf function|100/100|C|
-|[Libft](https://github.com/noci0001)|-(0)-|First Library|100/100|C|
+|[Libft](https://github.com/noci0001/42_Libft)|-(0)-|First Library|100/100|C|
 
 ___
 
