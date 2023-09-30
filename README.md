@@ -23,7 +23,7 @@ ___
 
 | Project| Circle  | Description     | Score    | Language |
 |--------|:-------:|-----------------|:--------:|:--------:|
-|Minishell|-(3)-|Creation of Bash shell functionalities|100/100|C|
+|[Minishell](https://github.com/noci0001/42_Minishell)|-(3)-|Creation of Bash shell functionalities|100/100|C|
 |Pipex|-(2)-|UNIX redirections and pipes| 115/100| C|
 |Push_swap|-(2)-|Sorting algorythm|100/100|C|
 |Fract-ol|-(2)-|2D creation of fractols, using minilibx|101/100|C|
