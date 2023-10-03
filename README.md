@@ -23,16 +23,16 @@ ___
 
 | Project| Circle  | Description     | Score    | Language |
 |--------|:-------:|-----------------|:--------:|:--------:|
-|[🐚 MINISHELL 🐚](https://github.com/noci0001/42_Minishell)|-(3)-|Creation of Bash shell functionalities|100/100|C|
-|[🤔 PHILOSOPHERS 🤔](https://github.com/noci0001/42_philosophers)|-(3)-|Multithreading program about resource management|100/100|C|
-|[🎮 CUB3D 🎮]((https://github.com/thedatab0y/cub3D))|-(3)-|3D game with raycasting|100/100|C|
-|[🦄 PIPEX 🦄](https://github.com/noci0001/42_Pipex)|-(2)-|UNIX redirections and pipes| 115/100| C|
-|[🧮 PUSHSWAP 🧮](https://github.com/noci0001/)|-(2)-|Sorting algorythm|100/100|C|
-|[🖼️ FRACTOL 🖼️](https://github.com/noci0001/42_FRACTOL)|-(2)-|2D creation of fractols, using minilibx|101/100|C|
-|[🤓 BORN2BEROOT 🤓](https://github.com/noci0001)|-(1)-|Virtual machine|110/100|/|
-|[♻️ GETNEXTLINE ♻️](https://github.com/noci0001)|-(1)-|Reading from a file descriptor|125/100|C|
-|[🖨️ FTPRINTF 🖨️](https://github.com/noci0001)|-(1)-|Recreation of printf function|100/100|C|
-|[📖 LIBFT 📖](https://github.com/noci0001/42_Libft)|-(0)-|First Library|100/100|C|
+|[🐚 MINISHELL🐚](https://github.com/noci0001/42_Minishell)|-(3)-|Creation of Bash shell functionalities|100/100|C|
+|[🤔 PHILOSOPHERS🤔](https://github.com/noci0001/42_philosophers)|-(3)-|Multithreading program about resource management|100/100|C|
+|[🎮 CUB3D🎮]((https://github.com/thedatab0y/cub3D))|-(3)-|3D game with raycasting|100/100|C|
+|[🦄 PIPEX🦄](https://github.com/noci0001/42_Pipex)|-(2)-|UNIX redirections and pipes| 115/100| C|
+|[🧮 PUSHSWAP🧮](https://github.com/noci0001/)|-(2)-|Sorting algorythm|100/100|C|
+|[🖼️ FRACTOL🖼️](https://github.com/noci0001/42_FRACTOL)|-(2)-|2D creation of fractols, using minilibx|101/100|C|
+|[🤓 BORN2BEROOT🤓](https://github.com/noci0001)|-(1)-|Virtual machine|110/100|/|
+|[♻️ GETNEXTLINE♻️](https://github.com/noci0001)|-(1)-|Reading from a file descriptor|125/100|C|
+|[🖨️ FTPRINTF🖨️](https://github.com/noci0001)|-(1)-|Recreation of printf function|100/100|C|
+|[📖 LIBFT📖](https://github.com/noci0001/42_Libft)|-(0)-|First Library|100/100|C|
 
 ___
 
