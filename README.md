@@ -23,6 +23,8 @@ ___
 
 | Project| Circle  | Description     | Score    | Language |
 |--------|:-------:|-----------------|:--------:|:--------:|
+|[🤩WEBSERVER🤩](https://github.com/noci0001/42_Webserv)|-(4)-|C++ Programming|100/100|C++|
+|[🤖CPP_MODULES🤖](https://github.com/noci0001/Object-Oriented-Practice)|-(4)-|C++ Programming|100/100|C++|
 |[🐚 MINISHELL🐚](https://github.com/noci0001/42_Minishell)|-(3)-|Creation of Bash shell functionalities|100/100|C|
 |[🤔 PHILOSOPHERS🤔](https://github.com/noci0001/42_philosophers)|-(3)-|Multithreading program about resource management|100/100|C|
 |[🎮 CUB3D🎮]((https://github.com/thedatab0y/cub3D))|-(3)-|3D game with raycasting|100/100|C|
