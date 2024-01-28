@@ -2,8 +2,8 @@
 ### Hi there 👋, my name is *Sam*
 I am Sam from Berlin, I code for a living and I live to code. I really enjoy low level languages like C and I mostly code in CPP. 
 You can checkout my LinkedIn profile at [my LinkedIn](https://linkedin.com/in/samuelnocita)
-### About Me:
-- 🔭 I’m currently working on creating a **web server** 
+### About Me
+- 🔭 I’m currently working on creating a **compression algoritm known as Douglas-reumer-reucker algorithm** for Bosch
 - 🌱 I’m currently learning the wonders of **C++** and Object Oriented Programming 
 - 👯 I’m looking to collaborate on **frontend** projects involving React 
 - 🤔 I’m looking for help with finding an **internship in tech** that challenges me and makes me create an impact 
@@ -31,7 +31,7 @@ ___
 |[🦄 PIPEX🦄](https://github.com/noci0001/42_Pipex)|-(2)-|UNIX redirections and pipes| 115/100| C|
 |[🧮 PUSHSWAP🧮](https://github.com/noci0001/)|-(2)-|Sorting algorythm|100/100|C|
 |[🖼️ FRACTOL🖼️](https://github.com/noci0001/42_FRACTOL)|-(2)-|2D creation of fractols, using minilibx|101/100|C|
-|[🤓 BORN2BEROOT🤓](https://github.com/noci0001)|-(1)-|Virtual machine|110/100|/|
+|[🤓 BORN2BEROOT🤓](https://github.com/noci0001)|-(1)-|Virtual machine|110/100||
 |[♻️ GETNEXTLINE♻️](https://github.com/noci0001)|-(1)-|Reading from a file descriptor|125/100|C|
 |[🖨️ FTPRINTF🖨️](https://github.com/noci0001)|-(1)-|Recreation of printf function|100/100|C|
 |[📖 LIBFT📖](https://github.com/noci0001/42_Libft)|-(0)-|First Library|100/100|C|
