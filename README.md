@@ -4,10 +4,10 @@ I am Sam from Berlin, I code for a living and I live to code. I really enjoy low
 You can checkout my LinkedIn profile at [my LinkedIn](https://linkedin.com/in/samuelnocita)
 ### About Me
 - 🔭 I’m currently working on creating a **compression algoritm known as Douglas-reumer-reucker algorithm** for Bosch
-- 🌱 I’m currently learning the wonders of **C++** and Object Oriented Programming 
+- 🌱 I’m currently learning the wonders of **RUST** 
 - 👯 I’m looking to collaborate on **frontend** projects involving React 
-- 🤔 I’m looking for help with finding an **internship in tech** that challenges me and makes me create an impact 
-- 💬 Ask me about how shell works! It's an amazingly complex language that we use daily but we do not appreciate enough! 
+- 🤔 I’m looking for help with finding an **fulltime RUST role in tech** that challenges me and makes me create an impact 
+- 💬 Ask me about how RUST works! It's a relatively new language but it has already gained the status of one of the most respected in the tech world 
 - 📫 How to reach me: [my LinkedIn](https://linkedin.com/in/samuelnocita) or [samuelnocita@gmail.com](mailto:samuelnocita@gmail.com)
 - ⚡ Fun fact: Computer languages are not the only languages I find fascinating, human languages were my first passion and I speak a few like Italian, Spanish, French and soon I hope to master German
 
@@ -40,13 +40,16 @@ ___
 
 ## SKILLS
 
-🌕 Bash, Linux
-🌔 C++
+🌕 Bash, Linux, Docker
+🌔 C, C++, RUST
 🌓 React
 🌒 HTML, CSS, JavaScript
 🌑 Procreate, Figma, Canva
 
 ## EXPERIENCE
+
+**BOSCH - Rust Software Engineer - Berlin, Germany**
+KUKSA.val, Fleet Management, Douglas-Reumer-Pucker Algo...
 
 **42Wolfsburg - Minishell - Berlin, Germany**
 Cooperated in team of developers with the goal of programming a shell program executing commands in C.
