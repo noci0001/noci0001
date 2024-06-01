@@ -1,11 +1,9 @@
 ![*Full stack developer*](https://github.com/noci0001/noci0001/assets/79120220/73d4cda4-8371-4ad3-9bbb-8d556b8b33d7)
 ### Hi there 👋, my name is *Sam*
-I am Sam from Berlin, I code for a living and I live to code. I really enjoy low level languages like C and I mostly code in CPP. 
+I am Sam from Berlin, I code for a living and I live to code. I really enjoy low level languages like C and I mostly code in Rust. 
 You can checkout my LinkedIn profile at [my LinkedIn](https://linkedin.com/in/samuelnocita)
 ### About Me
 - 🔭 I’m currently working on creating a **compression algoritm known as Douglas-reumer-reucker algorithm** for Bosch
-- 🌱 I’m currently learning the wonders of **RUST** 
-- 👯 I’m looking to collaborate on **frontend** projects involving React 
 - 🤔 I’m looking for help with finding an **fulltime RUST role in tech** that challenges me and makes me create an impact 
 - 💬 Ask me about how RUST works! It's a relatively new language but it has already gained the status of one of the most respected in the tech world 
 - 📫 How to reach me: [my LinkedIn](https://linkedin.com/in/samuelnocita) or [samuelnocita@gmail.com](mailto:samuelnocita@gmail.com)
